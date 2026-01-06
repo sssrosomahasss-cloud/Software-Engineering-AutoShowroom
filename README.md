@@ -47,5 +47,5 @@
 * Критерій приймання: 100% виконання функцій та відсутність помилок у консолі.
 
 ## 7. Додатки
-* **Посилання на репозиторій:**(https://github.com/sssrosomahasss-cloud/Software-Engineering-AutoShowroom/edit/main/README.md)
+* **Посилання на репозиторій:** https://github.com/sssrosomahasss-cloud/Software-Engineering-AutoShowroom/blob/main/README.md
 * **Команда:** Розробник — [Пукас Антоній 23-ІПЗ].
